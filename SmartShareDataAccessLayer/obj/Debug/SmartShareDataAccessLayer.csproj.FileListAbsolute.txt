@@ -1,0 +1,40 @@
+E:\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\x64\SQLite.Interop.dll
+E:\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\x86\SQLite.Interop.dll
+E:\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\SmartShareDataAccessLayer.dll
+E:\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\SmartShareDataAccessLayer.pdb
+E:\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\SmartShareCommon.dll
+E:\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\SmartShareCommon.pdb
+E:\wpf apps\SmartShare\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.csprojResolveAssemblyReference.cache
+E:\wpf apps\SmartShare\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.dll
+E:\wpf apps\SmartShare\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\x64\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\x86\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\SmartShareDataAccessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\SmartShareDataAccessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareDataAccessLayer\bin\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareDataAccessLayer\bin\Debug\x64\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareDataAccessLayer\bin\Debug\x86\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareDataAccessLayer\bin\Debug\SmartShareDataAccessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareDataAccessLayer\bin\Debug\SmartShareDataAccessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareDataAccessLayer\bin\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareDataAccessLayer\bin\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareDataAccessLayer\bin\Debug\x64\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareDataAccessLayer\bin\Debug\x86\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareDataAccessLayer\bin\Debug\SmartShareDataAccessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareDataAccessLayer\bin\Debug\SmartShareDataAccessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareDataAccessLayer\bin\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareDataAccessLayer\bin\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\Bin\x64\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\Bin\x86\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\Bin\SmartShareDataAccessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\Bin\SmartShareDataAccessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareDataAccessLayer\obj\Debug\SmartShareDataAccessLayer.pdb

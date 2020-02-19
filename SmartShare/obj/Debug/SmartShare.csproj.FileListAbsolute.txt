@@ -1,0 +1,167 @@
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShare.exe.config
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShare.exe
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShare.pdb
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareCommon.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareCoreBusinessLayer.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\System.Windows.Interactivity.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareDataAccessLayer.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\System.Data.SQLite.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareCommon.pdb
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareCoreBusinessLayer.pdb
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareDataAccessLayer.pdb
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.csprojResolveAssemblyReference.cache
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\Views\AddClient.baml
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\Views\AddClient.g.cs
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\Views\DropContent.g.cs
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\MainWindow.g.cs
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\App.g.cs
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare_MarkupCompile.cache
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare_MarkupCompile.lref
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\Views\DropContent.baml
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\MainWindow.baml
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.g.resources
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.Properties.Resources.resources
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.csproj.GenerateResource.Cache
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.exe
+E:\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.pdb
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\x64\SQLite.Interop.dll
+E:\wpf apps\SmartShare\SmartShare\bin\Debug\x86\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.csprojResolveAssemblyReference.cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\Views\AddClient.baml
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\Views\AddClient.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\Views\DropContent.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\MainWindow.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\App.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare_MarkupCompile.cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare_MarkupCompile.lref
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShare.exe.config
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShare.exe
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShare.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareChatService.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareCoreBusinessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\System.Windows.Interactivity.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareDataAccessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\System.Data.SQLite.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareChatService.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareCoreBusinessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\SmartShareDataAccessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\Views\DropContent.baml
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\MainWindow.baml
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.g.resources
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.Properties.Resources.resources
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.csproj.GenerateResource.Cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.exe
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\obj\Debug\SmartShare.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\x64\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShare\bin\Debug\x86\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\SmartShare.exe.config
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\SmartShare.exe
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\SmartShare.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\x64\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\x86\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\SmartShare.exe
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\SmartShare.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\SmartShareChatService.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\SmartShareCoreBusinessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\System.Windows.Interactivity.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\SmartShareDataAccessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\System.Data.SQLite.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\SmartShareChatService.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\SmartShareCoreBusinessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\SmartShareDataAccessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\SmartShare.csprojResolveAssemblyReference.cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\Views\AddClient.baml
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\Views\AddClient.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\Views\DropContent.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\MainWindow.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\App.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\SmartShare_MarkupCompile.cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\SmartShare_MarkupCompile.lref
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\Views\DropContent.baml
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\MainWindow.baml
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\SmartShare.g.resources
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\SmartShare.Properties.Resources.resources
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShare\obj\Debug\SmartShare.csproj.GenerateResource.Cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\x64\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\x86\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\SmartShare.exe.config
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\SmartShare.exe
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\SmartShare.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\SmartShareChatService.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\SmartShareCoreBusinessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\System.Windows.Interactivity.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\SmartShareDataAccessLayer.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\System.Data.SQLite.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\SmartShareChatService.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\SmartShareCoreBusinessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\SmartShareDataAccessLayer.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\Bin\x64\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\Bin\x86\SQLite.Interop.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\Bin\SmartShare.exe.config
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\Bin\SmartShare.exe
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\Bin\SmartShare.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\SmartShare.csprojResolveAssemblyReference.cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\Views\AddClient.baml
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\Views\AddClient.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\Views\DropContent.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\MainWindow.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\App.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\SmartShare_MarkupCompile.cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\SmartShare_MarkupCompile.lref
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\Views\DropContent.baml
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\MainWindow.baml
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\SmartShare.g.resources
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\SmartShare.Properties.Resources.resources
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\SmartShare.csproj.GenerateResource.Cache
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\SmartShare.exe
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShare\obj\Debug\SmartShare.pdb

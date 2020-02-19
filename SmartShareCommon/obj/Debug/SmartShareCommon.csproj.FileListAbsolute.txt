@@ -1,0 +1,18 @@
+E:\wpf apps\SmartShare\SmartShareCommon\bin\Debug\SmartShareCommon.dll
+E:\wpf apps\SmartShare\SmartShareCommon\bin\Debug\SmartShareCommon.pdb
+E:\wpf apps\SmartShare\SmartShareCommon\obj\Debug\SmartShareCommon.dll
+E:\wpf apps\SmartShare\SmartShareCommon\obj\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareCommon\bin\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareCommon\bin\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareCommon\obj\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare\SmartShareCommon\obj\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareCommon\bin\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareCommon\bin\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareCommon\obj\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare3\SmartShareCommon\obj\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareCommon\bin\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareCommon\bin\Debug\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\Bin\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\Bin\SmartShareCommon.pdb
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareCommon\obj\Debug\SmartShareCommon.dll
+C:\E Drive\Developed Softwares\wpf apps\SmartShare1\SmartShareCommon\obj\Debug\SmartShareCommon.pdb

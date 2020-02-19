@@ -1,0 +1,4 @@
+E:\wpf apps\SmartShare\SmartShareCommon\bin\Release\SmartShareCommon.dll
+E:\wpf apps\SmartShare\SmartShareCommon\bin\Release\SmartShareCommon.pdb
+E:\wpf apps\SmartShare\SmartShareCommon\obj\Release\SmartShareCommon.dll
+E:\wpf apps\SmartShare\SmartShareCommon\obj\Release\SmartShareCommon.pdb
